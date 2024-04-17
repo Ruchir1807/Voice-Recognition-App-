@@ -1,0 +1,6 @@
+Create react-app using node.js command prompt
+npm install -g create-react-app
+create-react-app --version
+create-react-app <projectname>
+Open vs code or whatever interface
+Then import 'npm react-speech-recognition' and 'npm react-use-clipboard' dependencies as well
